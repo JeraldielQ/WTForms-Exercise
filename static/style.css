@@ -1,0 +1,16 @@
+.pet {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: none;
+}
+
+.pet .pet-image {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 5px;
+}
+
+.pet .availability {
+    font-weight: bold;
+    color: green;
+}
